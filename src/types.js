@@ -1,0 +1,4 @@
+export const types = {
+    CREATE_CONTENT : "CREATE_CONTENT",
+    CLEAR_CONTENT : "CLEAR_CONTENT"
+}
